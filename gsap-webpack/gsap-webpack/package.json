@@ -1,0 +1,23 @@
+{
+    "version": "1.0.0",
+    "name": "gsap-webpack",
+    "private": true,
+    "scripts": {
+        "start": "SET NODE_ENV=development&& webpack-dev-server --inline"
+    },
+    "devDependencies": {
+        "autoprefixer-loader": "^3.2.0",
+        "babel-core": "^6.14.0",
+        "babel-loader": "^6.2.5",
+        "babel-preset-es2015": "^6.14.0",
+        "css-loader": "^0.25.0",
+        "html-loader": "^0.4.3",
+        "node-sass": "^3.9.3",
+        "sass-loader": "^4.0.2",
+        "style-loader": "^0.13.1",
+        "webpack": "^1.13.2"
+    },
+    "dependencies": {
+        "gsap": "^1.19.0"
+    }
+}

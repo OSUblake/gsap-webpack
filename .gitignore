@@ -250,3 +250,6 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+/gsap-webpack/gsap-webpack/web.Debug.config
+/gsap-webpack/gsap-webpack/web.config
+/gsap-webpack/gsap-webpack/web.Release.config
