@@ -1,1 +1,3 @@
 # gsap-webpack
+
+`npm start`
