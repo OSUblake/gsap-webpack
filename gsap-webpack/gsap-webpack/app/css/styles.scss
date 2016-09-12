@@ -115,6 +115,7 @@ button:hover {
 .content {
 	margin: 20px;
 	padding-top: 40px;
+	max-width: 500px;
 }
 
 .nav {
@@ -124,5 +125,5 @@ button:hover {
 	background: rgba(0, 0, 0, 0.8);
 	margin: 0;
 	padding: 10px;
-    z-index: 99999;
+	z-index: 99999;
 }

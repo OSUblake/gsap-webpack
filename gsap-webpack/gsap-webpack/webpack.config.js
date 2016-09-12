@@ -57,8 +57,8 @@ module.exports = {
     extensions: ["", ".js"],
 
     alias: {
-      "TweenLite": path.join(root, gsapPath + "TweenLite.js"),
-      "CSSPlugin": path.join(root, gsapPath + "plugins/CSSPlugin.js"),
+      "TweenLite": "gsap",
+      "CSSPlugin": "gsap",
       "Draggable": path.join(root, gsapPath + "utils/Draggable.js"),
       "ScrollToPlugin": path.join(root, gsapPath + "plugins/ScrollToPlugin.js")
     }
